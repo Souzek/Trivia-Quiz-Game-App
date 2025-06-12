@@ -25,7 +25,7 @@ Java
 
 Clone the repository and run the command:
 
-git clone <https://github.com/ruebeniosdev/MINI-QUIZ-GAME.git>
+git clone <https://github.com/ruebeniosdev/TriviaQuizGAME.git>
 
 ### Running the Application
 
