@@ -13,7 +13,7 @@ A CONSOLE JAVA APPLICATION
 - [📋 Approach](#-approach)
 - [📸 Screenshots](#-screenshots)
 - [🚀 Deployment](#-deployment)
-- [👤 Author](#-author)
+- [👤 Developers](#-developers)
 
 ## 🚀 Getting Started
 
@@ -46,7 +46,7 @@ How it works:
 
 - At the end, we print their score and whether they passed (3 or more correct).
 
-## 👤 Author
+## 👤 Developers
 Akankobateng Rueben Ansoliwen
 
 Abdul Salim Sulemana
