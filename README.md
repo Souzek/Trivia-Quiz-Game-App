@@ -46,5 +46,7 @@ How it works:
 
 - At the end, we print their score and whether they passed (3 or more correct).
 
-## 📋 Author
+## 👤 Author
 Akankobateng Rueben Ansoliwen
+
+Abdul Salim Sulemana
